@@ -10,7 +10,7 @@ import os
 # ===============================
 
 # Define file path for the cleaned dataset
-FILE_PATH = os.path.join(BASE_DIR, "merged_sentiment_data_updated.csv")
+FILE_PATH = "merged_sentiment_data_updated.csv"
 
 # Read CSV file
 try:
